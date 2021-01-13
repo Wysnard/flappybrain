@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# FlappyBrain
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Neuro-Evolution project built with Tensorflow.js which train an agents with reinforcement learning techniques.
+The agent is a bird from the popular flappybird game.
+A flappy bird game build with p5.js.
 
 ## Available Scripts
 
