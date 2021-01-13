@@ -1,5 +1,7 @@
 # FlappyBrain
 
+![Flappybrain Gif](https://raw.githubusercontent.com/Wysnard/flappybrain/main/flappybrain.gif)
+
 A Neuro-Evolution project built with Tensorflow.js which train an agents with reinforcement learning techniques.
 The agent is a bird from the popular flappybird game.
 A flappy bird game build with p5.js.
